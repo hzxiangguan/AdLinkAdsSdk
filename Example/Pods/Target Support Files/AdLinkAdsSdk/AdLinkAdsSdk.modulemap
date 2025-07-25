@@ -1,0 +1,6 @@
+framework module AdLinkAdsSdk {
+  umbrella header "AdLinkAdsSdk-umbrella.h"
+
+  export *
+  module * { export * }
+}

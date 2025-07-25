@@ -1,0 +1,16 @@
+PODS:
+  - AdLinkAdsSdk (0.1.0)
+
+DEPENDENCIES:
+  - AdLinkAdsSdk (from `../`)
+
+EXTERNAL SOURCES:
+  AdLinkAdsSdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AdLinkAdsSdk: 77b4c75481cd7bd0e88fb4ed861271a7fe3ec10b
+
+PODFILE CHECKSUM: aa3107797af223fc47da0f06fbf8b588ff799af1
+
+COCOAPODS: 1.16.2
